@@ -10,13 +10,13 @@ echo "
 \______|    \/               \/     \/     \/     \/
                                                                                                   
 "
-DOCKER_IMG_NAME="kk1906/jd-base"
+DOCKER_IMG_NAME="GG/jd-base"
 JD_PATH=""
 SHELL_FOLDER=$(pwd)
 CONTAINER_NAME=""
 CONFIG_PATH=""
 LOG_PATH=""
-TAG="github"
+TAG="gitee"
 
 HAS_IMAGE=false
 PULL_IMAGE=true
